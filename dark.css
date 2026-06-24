@@ -1,0 +1,28 @@
+body {
+  background: #0e1011;
+  color: white
+}
+
+hr {
+  width: 75%;
+  color: orange;
+}
+
+.profile {
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-left: 20px;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.title {
+  background: orange;
+  padding: 10px;
+  color: black; 
+}
+
+.centered {
+  text-align: center;
+}

@@ -3,11 +3,9 @@ body {
   color: white
 }
 
-p {
-  font-size: 20px;
-}
-
 hr {
+  border-width: 2px;
+  border-style: solid;
   width: 75%;
   color: orange;
 }
@@ -22,9 +20,9 @@ hr {
 }
 
 .title {
-  background: orange;
+  color: orange;
   padding: 10px;
-  color: black; 
+/*  color: black; */
 }
 
 .centered {

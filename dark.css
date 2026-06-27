@@ -26,8 +26,9 @@ hr {
 }
 
 .sectionHeader {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  place-items: center;
+  text-align: center;
   color: orange;
 }
 

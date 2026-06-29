@@ -26,10 +26,16 @@ hr {
 }
 
 .sectionHeader {
-  display: grid;
-  place-items: center;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: orange;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .projects {

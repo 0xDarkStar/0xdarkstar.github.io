@@ -11,21 +11,25 @@ hr {
 }
 
 a:link {
+  font-weight: bold;
   color: orange;
   text-decoration: none;
 }
 
 a:visited {
+  font-weight: bold;
   color: orangered;
   text-decoration: none;
 }
 
 a:hover {
+  font-weight: bold;
   color: orange;
   text-decoration: underline;
 }
 
 a:active {
+  font-weight: bold;
   color: lightcoral;
   text-decoration: underline;
 }

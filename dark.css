@@ -10,6 +10,26 @@ hr {
   color: orange;
 }
 
+a:link {
+  color: orange;
+  text-decoration: none;
+}
+
+a:visited {
+  color: orangered;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: underline;
+}
+
+a:active {
+  color: lightcoral;
+  text-decoration: underline;
+}
+
 .profile {
   margin-top: 50px;
   margin-right: 20px;
